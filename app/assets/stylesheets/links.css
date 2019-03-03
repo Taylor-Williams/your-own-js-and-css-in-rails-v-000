@@ -7,9 +7,9 @@
     color: #ff1a1a;
     text-decorartion: underline;
   }
-  .cool-background {
-  a {
-    color: grey;
-    background: none;
-  }
+}
+.cool-background {
+a {
+  color: grey;
+  background: none;
 }
